@@ -1,6 +1,6 @@
 - Hello, I'm maziogra 👋
 - I'm from Italy
-- I'm learning how to use Java (Spring Boot)
+- I'm learning how to use Node.js
 
 Hobbies:
 - Coding 💻
