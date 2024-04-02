@@ -7,4 +7,4 @@ Hobbies:
 - Music 🎵
 - Film/Series 🎞️
 
-[maziogra.github.io](maziogra.github.io)
+[maziogra.github.io](https://maziogra.github.io)
