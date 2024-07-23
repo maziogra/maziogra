@@ -1,7 +1,7 @@
 - Hello, I'm maziogra 👋
 - I'm from Italy
-- I'm learning how to use Node.js
-
+- I'm learning how to use c++
+  
 Hobbies:
 - Coding 💻
 - Music 🎵
